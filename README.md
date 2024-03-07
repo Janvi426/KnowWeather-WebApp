@@ -29,7 +29,9 @@ Follow these steps to run the KnowWeather Webapp on your local machine:
 ## Note
 
 This project is configured to use the OpenWeather API for fetching weather data. Make sure you have an API key from OpenWeather and update the relevant code accordingly.
+
 Make Sure You have such Folder structure...
+<br>
 ![Folder Structure](images/Folders.png)
 
 ## Learning Mode 💛
