@@ -24,7 +24,7 @@ Follow these steps to run the KnowWeather Webapp on your local machine:
 5. Copy the existing code from your previous project files into the newly created files, ensuring that the filenames match the specified names.
 6. If you haven't configured a server in your Eclipse workspace, set up a server such as Apache Tomcat version 10.1.
 7. Do not modify the `web.xml` file, as it will be automatically generated.
-8. Get your APIKey and paste it in apikey variable in MyServlet.java file.
+8. Get your APIKey and paste it in apikey = `Apni-API-KEY-daalo` variable in MyServlet.java file.
 
 ## Note
 
