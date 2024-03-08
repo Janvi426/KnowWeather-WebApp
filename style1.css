@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+body {
+			margin: 0;
+			padding: 0;
+			text-align: center;
+            height: 100vh;
+			background: url('images/nine.png');
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: left;
+			color: black;
+			font-family: calibri;
+		}
+		
+		div {
+			display: flex;
+  			height: 100vh;
+  			flex-direction: column;
+  			align-items: center;
+  			justify-content: center;
+		}
+		
+		.container {
+			width: 400px;
+			height: 200px;
+			border-radius: 16px; 
+			padding: 20px;
+			background-color: rgba(0, 0, 0, .6);
+			margin-bottom: 30px;
+		}
+		
+		.container2 {
+			width: 400px;
+			height: 130px;
+			border-radius: 16px; 
+			padding: 10px;
+			background-color: rgba(0, 0, 0, .6);
+			color: white;
+		}
+		
+		p {
+			font-size: 16px;
+			margin-top: 7px;
+		}
+		
+		
+		
+.searchInput {
+  width: 100%;
+  display: flex;
+  padding: 1rem 1rem;
+  justify-content: center;
+  
+}
+
+.searchInput input {
+  width: 100%;
+  height: 2rem;
+  outline: none;
+  font-size: 1rem;
+  color: #9b9b9b;
+  padding: 0.2rem 0.5rem;
+  border-radius: 1.5rem;
+  border: 1px solid #b3b3b3;
+  background-color: white;
+}
+
+.searchInput input:focus {
+  border: 2px solid #a5c456;
+}
+
+.searchInput button {
+  
+  width: 2.2rem;
+  height: 2rem;
+  cursor: pointer;
+  color: #9b9b9b;
+  border-radius: 50%;
+  margin-left: 0.4rem;
+  margin-top: 4px;
+  transition: all 0.3s ease;
+  background-color: rgba(0, 0, 0, .3);
+  border: 1px solid white;
+}
+
+.searchInput button:hover {
+  color: #9b9b9b;
+  background-color: #a5c456;
+  border: 1px solid white;
+		
+
+	
