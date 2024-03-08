@@ -13,7 +13,7 @@ KnowWeather is a simple web application built using Java EE technologies that al
 
 ## Technologies Used
 
-- Eclipse Java EE (Integrated Development Environment)
+- IDE : Eclipse Java EE (Integrated Development Environment)
 - Servlet
 - JSP (JavaServer Pages)
 - HTML
