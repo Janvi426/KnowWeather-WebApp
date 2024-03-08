@@ -6,9 +6,9 @@ KnowWeather is a simple web application built using Java EE technologies that al
 <br><br>
 ![HomePage](images/1.png)
 <br>
-![After Search](images/2.png)
-<br>
 ![After Search](images/3.png)
+<br>
+![After Search](images/2.png)
 <br>
 
 ## Technologies Used
