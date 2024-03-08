@@ -3,7 +3,7 @@
 ## Overview
 
 KnowWeather is a simple web application built using Java EE technologies that allows users to retrieve current weather conditions for a given city. By entering the city name, the application fetches data from the OpenWeather API and displays information such as temperature, humidity, wind speed, date, and time.
-<br>
+<br><br>
 ![HomePage](images/1.png)
 <br>
 ![After Search](images/2.png)
